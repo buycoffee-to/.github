@@ -1,8 +1,7 @@
-# BuyCoffee.to
+# 🇵🇱 BuyCoffee.to
 
-🇵🇱 
-## Zacznij zarabiać na swojej pasji.
-### Pozwól innym wspierać finansowo Twoją twórczość.
+### Zacznij zarabiać na swojej pasji.
+#### Pozwól innym wspierać finansowo Twoją twórczość.
 
 Tworzymy platformę pomagającą szybko wyrazić wdzięczność dla Twórców poprzez błyskawiczny przelew BLIK i nie tylko.
 
