@@ -1,6 +1,5 @@
 # BuyCoffee.to
 
 
-![BuyCoffee.to website](/images/buycoffee-to-screenshot.png)
+https://user-images.githubusercontent.com/44121545/226085469-2c9e8c22-0b50-446e-af95-077563b1407a.mp4
 
-![](https://raw.githubusercontent.com/buycoffee-to/.github/main/videos/buycoffee-to-immediately.mp4)
